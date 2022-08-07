@@ -102,5 +102,4 @@ SushiJS is a Typescript, NextJS, TailwindCSS and Motion Framer project to help d
 
 
 ## We run on
-    [Railway](https://railway.app?referralCode=itamaesan)
-    🎟 Referral link: [Railway](https://railway.app?referralCode=itamaesan)
+    Vercel 🍣 Thanks Vercel if you read that!
