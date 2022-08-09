@@ -1,5 +1,7 @@
 # SushiJS
 
+## SushiJS is a (https://itamaesan.org)[itamaesan.org Project, visit to know more]
+
 SushiJS is a Typescript, NextJS, TailwindCSS and Motion Framer project to help developers build great tools!
  
  ✨  We are proud to announce, ITAMAESAN, a project to help developers, exclusive working with Open Source MIT License on our code.
