@@ -1,5 +1,5 @@
 This project is devloped by:
-- ITAMAESAN](https://github.com/itamaesanorg/)
+- [ITAMAESAN](https://github.com/itamaesanorg/)
 
 Our projects:
 
