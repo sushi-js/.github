@@ -1,10 +1,10 @@
-SushiJS is a Framework developed by ITAMAESAN ORG, ITAMAESAN is an open source organization that aims to promote the use of open source software in the web development industry.
+### SushiJS is a Framework developed by ITAMAESAN ORG, ITAMAESAN is an open source organization that aims to promote the use of open source software in the web development industry.
 
 - [SushiJS](https://github.com/sushi-js/)
 - [ITAMAESAN](https://github.com/itamaesanorg/)
 
-Learn with ITAMAESAN University
-Learn how SushiJS is built via ITAMAESAN LEARN on: How To NextJS At ITAMAESAN we are onboarding new education libraries for thoese who wants to initiate on NextJS, the core of SushiJS.
+### Learn with ITAMAESAN University
+### Learn how SushiJS is built via ITAMAESAN LEARN on: How To NextJS At ITAMAESAN we are onboarding new education libraries for thoese who wants to initiate on NextJS, the core of SushiJS.
 - [How To NextJS](https://github.com/itamaesanorg/How-To-NextJS)
 - [Lab Excercise, News NextJS App](https://github.com/itamaesanorg/news-app)
 
