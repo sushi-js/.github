@@ -16,7 +16,7 @@ ITAMAESAN developed SushiJS Framework, SushiJS, a complete utlimate NextJS 12, T
 
 About Giveaway Tool
 ITAMAESAN also works for private companies, with one exclusive clause, work always with MIT Licenses and release the code on day 1.
-Giveaway Tool is a website HTML to create giveways. Just upload and play!
+Giveaway Tool is a website HTML to create giveways. Just upload and play.
 
 Websites
 - [ITAMAESAN Site](https://itamaesan.org)
