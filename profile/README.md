@@ -1,3 +1,5 @@
+![SUSHIJS ITAMAESAN FRAMEWORK NEXTJ TYPESCRIPT TAILWINDCSS PRISMA FRAMER GITHUB WALLPAPER](https://user-images.githubusercontent.com/5947268/185244408-54e2a8e4-b030-49c4-b010-512d9ea9daf8.png)
+
 ## SushiJS
 
 ### SushiJS is a Framework developed by ITAMAESAN ORG, ITAMAESAN is an open source organization that aims to promote the use of open source software in the web development industry.
