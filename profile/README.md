@@ -1,4 +1,4 @@
-![SUSHIJS ITAMAESAN FRAMEWORK NEXTJ TYPESCRIPT TAILWINDCSS PRISMA FRAMER GITHUB WALLPAPER](https://user-images.githubusercontent.com/5947268/185244408-54e2a8e4-b030-49c4-b010-512d9ea9daf8.png)
+![ITAMAESAN SushiJS Wallpaper Best Light NNextJS Framework with Husky fixed](https://user-images.githubusercontent.com/5947268/185643867-81854585-1f24-470e-9836-2a8b9c62c8dd.png)
 
 ## SushiJS
 
