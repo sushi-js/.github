@@ -42,6 +42,14 @@
 - [Giveaway in Action](https://giveawaytool.sushijs.com/)
 
 
+## About Education
+
+### ITAMAESAN makes a huge effort to deal and learn on how to fix their goals everyday at the office.
+### This is why we decied to document every error and mention the author!
+
+- [edu](https://github.com/itamaesanorg/edu)
+
+
 ## Official Sites
 - [ITAMAESAN Site](https://itamaesan.org)
 - [SushiJS Site](https://sushijs.com)
