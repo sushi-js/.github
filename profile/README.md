@@ -4,8 +4,8 @@
 ## ITAMAESAN
 ### ITAMAESAN ORG is an open source organization that aims to promote the use of open source software in the web development industry.
 
-- [SushiJS](https://github.com/sushi-js/)
 - [ITAMAESAN](https://github.com/itamaesanorg/)
+- [SushiJS](https://github.com/sushi-js/)
 
 
 ## Learn with ITAMAESAN University
@@ -36,6 +36,14 @@
 
 - [Wri](https://github.com/itamaesanorg/Wri)
 - [Wri on npm](https://www.npmjs.com/package/wri)
+
+
+## About Helpdesk
+
+### You will be able to publish your docs from online services with a one click install integration, called, helpdesk, sooner we will integrate python and rust too! Stay tuned!
+
+- [helpdesk](https://github.com/itamaesanorg/helpdesk)
+- [helpdesk on npm](https://www.npmjs.com/package/helpdesk)
 
 
 ## About Giveaway Tool
